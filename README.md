@@ -272,6 +272,7 @@ python backend/evaluation/evaluate_agents.py
 
 ```
 MindLink-AI/
+├── assets/ #images for this readme file
 ├── backend/
 │   ├── app.py
 │   ├── agents/
