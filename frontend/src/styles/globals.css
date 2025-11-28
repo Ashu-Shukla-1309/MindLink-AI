@@ -1,0 +1,1 @@
+@tailwind base;@tailwind components;@tailwind utilities;body{margin:0;font-family:system-ui;} .chat-input{color:#0b1220; caret-color:#0b71ff;} .chat-input::placeholder{color:rgba(11,18,32,0.45);} .chat-input:focus{color:#0b1220;outline:none}
