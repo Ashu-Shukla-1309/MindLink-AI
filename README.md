@@ -2,7 +2,7 @@
 
 # MindLink AI - Intelligent Multi-Agent Customer Support Assistant
 
-**MindLink AI** is a cutting-edge, multi-agent customer support system designed to automate and enhance customer service interactions. Built as the capstone project for the **Google × Kaggle 5-Day AI Agents Intensive Course**, this system provides efficient, intelligent, and context-aware support for an imaginary company, XYZ Company.
+**MindLink AI** is a cutting-edge, multi-agent customer support system designed to automate and enhance customer service interactions. Built as the capstone project for the **Google × Kaggle 5-Day AI Agents Intensive Course and is developed by Ashutosh Shukla**, this system provides efficient, intelligent, and context-aware support for an imaginary company, XYZ Company.
 
 The system integrates advanced **multi-agent architecture**, **LLM-powered replies**, **dynamic escalation mechanisms**, and **real-time observability**, all aimed at providing a seamless and responsive user experience.
 
@@ -209,5 +209,6 @@ This project is licensed under the **MIT License**, allowing you to freely use, 
 ---
 
 ### **MindLink AI** - Making Customer Support Smarter and More Efficient
+
 
 
