@@ -1,0 +1,20 @@
+﻿# Python
+venv/
+__pycache__/
+*.pyc
+.env.local
+.env
+
+# Node
+node_modules/
+dist/
+build/
+npm-debug.log
+package-lock.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
