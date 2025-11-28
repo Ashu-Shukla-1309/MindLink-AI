@@ -4,7 +4,7 @@
   <img src="./assets/banner.png" alt="MindLink AI Banner" width="900"/>
 </div>
 
-**Built by Ashutosh Shukla as the Capstone Project for the Google × Kaggle 5-Day AI Agents Intensive Course**
+**Built by Ashutosh Shukla as the Capstone Project for the Google × Kaggle 5-Day AI Agents Intensive Course** 
 
 MindLink AI is a fully-featured multi-agent customer support system designed to replicate and enhance the capabilities of a modern enterprise support assistant for the fictional **XYZ Company**. It brings together multi-agent intelligence, LLM-powered replies, safety and policy enforcement, structured escalation, and robust observability — all in a clean, modular architecture.
 
