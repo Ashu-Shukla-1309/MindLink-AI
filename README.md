@@ -286,9 +286,6 @@ MindLink-AI/
 │   ├── src/
 │   └── package.json
 │
-├── start_app.bat
-├── start_backend.bat
-├── start_frontend.bat
 └── README.md
 ```
 
